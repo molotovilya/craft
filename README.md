@@ -1,18 +1,17 @@
-# Quartz v4
+# 🌱 Craft - Цифровой сад
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Цифровой сад с заметками и идеями.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## О проекте
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Это пространство для публикации моих заметок, мыслей и исследований.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+---
 
-## Sponsors
+### Технические детали
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Сайт собран с помощью:
+- [Quartz v4](https://quartz.jzhao.xyz/) - генератор статических сайтов для цифровых садов
+- [Obsidian](https://obsidian.md/) - для написания и управления заметками
+- [GitHub Pages](https://pages.github.com/) - для хостинга
+- GitHub Actions - для автоматической сборки и публикации

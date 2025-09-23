@@ -29,6 +29,11 @@ jobs:
       - name: Install dependencies
         run: npm ci
         
+      - name: Clean cache
+        run: |
+          rm -rf .quartz-cache
+          rm -rf public
+        
       - name: Build Quartz
         run: npx quartz build
         

@@ -9,6 +9,6 @@ dist/
 .vscode/
 .idea/
 *.log
-sync.ps1
 deploy.bat
 *.bat
+*.lnk

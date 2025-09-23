@@ -1,3 +1,8 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Полностью скрываем footer
+footer {
+  display: none !important;
+}

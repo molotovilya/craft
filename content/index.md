@@ -8,3 +8,18 @@ title: Приветственная страница
 	- Статьи иногда разделены по тематическим папкам.
 	- Удобно искать через поиск по ключевым словам. 
 -  Если хочешь скрыть правое и левое меню - нажми на значок книжки слева у поиска 
+
+
+- черновая заметка по видео 
+- https://youtu.be/7peIaVJj_pg
+
+
+<div align="center">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/7peIaVJj_pg" 
+  allowfullscreen>
+</iframe>
+</div>
+

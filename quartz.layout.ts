@@ -12,7 +12,7 @@ export const sharedPageComponents: SharedLayout = {
         GitHub: "https://github.com"
       },
     }),
-  ],
+  ]
 }
 
 // components for pages that display a single page (e.g. a single note)

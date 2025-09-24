@@ -64,13 +64,9 @@ article {
   font-feature-settings: "kern" 1, "liga" 1;
 }
 
-
-
-/* Центрирование изображений в Quartz */
-.markdown img {
+// выравнивание изображений по центру
+article img, .page img {
     display: block !important;
     margin: 0 auto !important;
     max-width: 80%;
 }
-
-
